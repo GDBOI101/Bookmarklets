@@ -1,4 +1,4 @@
-var BB = 10; var i = 10; var CC = 0; alert("Turn up volume to max and press OK to disable go guardian"); alert("Go Guardian Disabled"); while (i > 0) { var win = window.open("https://codehs.com/uploads/b2679f56b6f608ba1ba3a27c39ae7590");i = i -1; var win2; var timer = setInterval(function() {   
+javascript:var BB = 10; var i = 10; var CC = 0; alert("Turn up volume to max and press OK to disable go guardian"); alert("Go Guardian Disabled"); while (i > 0) { var win = window.open("https://codehs.com/uploads/b2679f56b6f608ba1ba3a27c39ae7590");i = i -1; var win2; var timer = setInterval(function() {   
     if(win.closed) {  
         while(BB > 0) {
             alert("We're no strangers to computer virus 
