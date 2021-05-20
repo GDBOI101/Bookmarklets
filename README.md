@@ -12,4 +12,5 @@ Click the bookmark and enjoy :)
 Virus.js: Causes ChromeOS Devices and possibly other devices to crash and/or turn off!
 
 # Credits
-Virus.js: GD_Studios: https://www.youtube.com/c/GDStudios101/videos https://twitter.com/GD_Studios101
+Virus.js: GD_Studios https://www.youtube.com/c/GDStudios101/videos https://twitter.com/GD_Studios101
+Twirlie.js: Sheeptester https://sheeptester.github.io
